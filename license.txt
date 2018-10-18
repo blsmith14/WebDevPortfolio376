@@ -1,10 +1,10 @@
 
 
 <!--
-Copyright (c) 2018 by blsmith14 (https://codepen.io/blsmith14/pen/RYqxoX)
+Copyright (c) 2018 by blsmith14 (https://codepen.io/blsmith14/pen/WaQBQw)
 
 
-Fork of an original work by blsmith14 (https://codepen.io/blsmith14/pen/QVxaoX)
+Fork of an original work by blsmith14 (https://codepen.io/blsmith14/pen/ZMdmwR)
 
 
 
